@@ -1,0 +1,8 @@
+{
+  "author" : "^#00ffff;L^#25dbff;o^#49b7ff;n^#6e92ff;a^#926eff;a^#b749ff;s^#db25ff;a^#ff00ff;n^reset;",
+  "description" : "Animis Patcher Mod",
+  "friendlyName" : "Animis Patcher Mod",
+  "name" : "animis patcher mod",
+  "priority" : 101,
+  "version" : "0.0.1"
+}

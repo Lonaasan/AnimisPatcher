@@ -1,0 +1,21 @@
+[
+    {
+        "op": "add",
+        "path": "/1234567890abcdef1234567890abcdef",
+        "value": {
+            "facial_hair": {
+                "enabled": true,
+                "idleLoop": false,
+                "loungeIdleLoop": false,
+                "swimIdleLoop": false,
+                "crouchIdleLoop": false,
+                "maxFrames": 9,
+                "speed": 10,
+                "maxRandomValue": 5000,
+                "maxRandomTrigger": 1,
+                "group": "hair",
+                "type": "fem12"
+            }
+        }
+    }
+]
