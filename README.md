@@ -1,5 +1,9 @@
 ![Animis Logo](https://github.com/Lonaasan/Animis/blob/main/logo.png)
 # Animis Avatar Suite Patcher
+
+## This Patcher will not be on the workshop, as its purpose is to download once, and add your custom characters in it, while also enjoying auto updates through the workshop mod!
+### It can be that newer features will be added in the example files, but else if should stay compatible forever (if we dont make breaking changes, which i will try to announce on the official starbound discord)
+
 Multiplayer compatible. Requires OpenStarbound
 
 This mod allows you to animate your characters directives based on the player-state (and bindable loop states!)
